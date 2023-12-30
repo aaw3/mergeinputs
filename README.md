@@ -1,8 +1,8 @@
 # mergeinputs
 
-# This is a fork of https://github.com/Ckath/mergeinputs.
+# Fork of https://github.com/Ckath/mergeinputs.
 
-I forked this repo to solve the problem I was having with kmonad.
+This repo is a fork to resolve the problem I was having with kmonad.
 
 I bought a new mechanical keyboard and wanted to make some scripts and layers for it, but I found out that many keyboards and mice split the usb device into 2 or 3 different input devices under /dev/input
 
